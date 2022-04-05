@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/kunalramchurn">
@@ -28,7 +22,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalramchurn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
+
 <br/>
 
 <a href="https://github.com/kunalramchurn/github-readme-activity-graph"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalramchurn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
