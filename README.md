@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kunal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> I'm Kunal</h1>
 
 - 🔭 I’m currently working on building meaningful ML projects.
 - 🌱 I’m currently learning about Neural Networks and Deep Learning techniques.
