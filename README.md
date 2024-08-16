@@ -6,13 +6,6 @@
 - 💬 Ask me about anything. I'm an open book.
 - ⚡ Fun fact: I'm pretty good at building strategy.
 
-<br/>
-
-<a href="https://github.com/kunalramchurn/github-readme-activity-graph"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalramchurn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/kunalramchurn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
