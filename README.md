@@ -6,6 +6,12 @@
 - 💬 Ask me about anything. I'm an open book.
 - ⚡ Fun fact: I'm pretty good at building strategy.
 
+## Experience
+
+- Data Visualization
+- Data Modelling
+
+
 ## 📊 My Github Stats
 
   <br/>
