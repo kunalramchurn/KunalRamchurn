@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning about Neural Networks and Deep Learning techniques.
 - 👯 I’m looking to collaborate on some exiting ML-related projects.
 - 💬 Ask me about anything. I'm an open book.
-- ⚡ Fun fact: I'm pretty good at building strategy.
 
 ## Experience
 
 - Data Visualization
 - Data Modelling
+- Forecasting & Predicting Modelling
 
 
 ## 📊 My Github Stats
