@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> I'm Kunal</h1>
 
-- 🔭 I’m currently working on building meaningful ML projects.
-- 🌱 I’m currently learning about Neural Networks and Deep Learning techniques.
-- 👯 I’m looking to collaborate on some exiting ML-related projects.
+- 🔭 I’m currently working on building meaningful data science projects.
 - 💬 Ask me about anything. I'm an open book.
 
 ## Experience
