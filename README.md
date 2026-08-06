@@ -1,7 +1,7 @@
 <h1 align="center">Hi<width="1px"> I'm Kunal</h1>
 
-- 🔭 I’m currently working on building meaningful data science projects.
-- 💬 Ask me about anything. I'm an open book.
+I’m currently Data Analyst with hands-on experience in financial markets.
+
 
 ## Experience
 
