@@ -2,6 +2,9 @@
 
 I’m currently Data Analyst with over 9 years of experience in financial markets.
 
+## Professional Accomplishments
+- Lead analytics for Multi-Currency wallet deployment.
+
 ## Areas of experience
 - Fintech: Multi-Currency Wallets, Cross-Border Payments solutions
 - Foreign Exchange Solutions & Risk-Management Solutions
@@ -9,11 +12,12 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 
 ## Experience
 
-- Business Intelligence: DAX, Security (RLS)
+- Business Intelligence: DAX, Security (RLS), Data Warehousing
 - Alteryx pipelines
 - Data Modelling & Architecture
 - Project Management
 - Automation/ETL
+- Web Analytics
 
 
 ## Connect with me:
