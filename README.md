@@ -10,9 +10,9 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 ## Experience
 
 - Data Visualization
-- Data Modelling
-- Forecasting & Predicting Modelling
-
+- Data Modelling & Architecture
+- Project Management
+- Automation/ETL
 
 
 ## Connect with me:
