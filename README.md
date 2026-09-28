@@ -1,7 +1,11 @@
 <h1 align="center">Hi<width="1px"> I'm Kunal</h1>
 
-I’m currently Data Analyst with hands-on experience in financial markets.
+I’m currently Data Analyst with over 9 years of experience in financial markets.
 
+## Areas of experience
+- Fintech: Multi-Currency Wallets, Cross-Border Payments solutions
+- Foreign Exchange Solutions & Risk-Management Solutions
+- Equity Trading
 
 ## Experience
 
