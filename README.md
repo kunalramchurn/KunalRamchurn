@@ -14,10 +14,11 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 
 - Business Intelligence: DAX, Security (RLS), Data Warehousing
 - Alteryx pipelines
-- Data Modelling & Architecture
+- Data Engineering, Modelling & Architecture
 - Project Management
 - Automation/ETL
 - Web Analytics
+- Efficient prompt engineering
 
 
 ## Connect with me:
