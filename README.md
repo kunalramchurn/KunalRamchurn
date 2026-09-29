@@ -6,10 +6,12 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 - Quantitative Finance: Stock, ETF, Currencies
 - Decentralized Finance: Stablecoin
 - Application of Data Science models
+- Time Series forecasting
+- Scenario Analysis
 
 ### Professional Accomplishments
 - Lead analytics for Multi-Currency Wallet deployment
-- Oversee reporting for Product & Operations group with successful deployment of several key projects
+- Oversee the reporting of Product & Operations group with successful deployment of several key projects
 - Integrated with two 3rd-party Analytics software to ingest application user usage data, leading to multiple UI changes and client workflow improvements
 
 ### Industry Experience
@@ -31,7 +33,6 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 - Python
 - SQL
 - PowerBI
-- Tableau
 - Git
 
 ## Connect with me:
