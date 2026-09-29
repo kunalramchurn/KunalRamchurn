@@ -1,8 +1,8 @@
 <h1 align="center">Hi<width="1px"> I'm Kunal</h1>
 
-I’m currently Data Analyst with over 9 years of experience in financial markets.
+Fintech Data Analyst with over 9 years of experience in Financial markets, with focus on solving real problem in the industry.
 
-### Areas of Research
+### Areas of Research & Focus
 - Quantitative Finance: Stock, ETF, Currencies
 - Decentralized Finance: Stablecoin
 - Application of Data Science models
