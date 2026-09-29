@@ -10,7 +10,7 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 - Scenario Analysis
 
 ### Professional Accomplishments
-- Lead analytics for Multi-Currency Wallet deployment
+- Lead analytics for Multi-Currency Wallet deployment with subsequent increased client deposits and balance held
 - Oversee the reporting of Product & Operations group with successful deployment of several key projects
 - Integrated with two 3rd-party Analytics software to ingest application user usage data, leading to multiple UI changes and client workflow improvements
 
