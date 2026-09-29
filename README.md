@@ -5,6 +5,7 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 ### Professional Accomplishments
 - Lead analytics for Multi-Currency Wallet deployment
 - Oversee reporting for Product & Operations group with successful deployment of several key projects
+- Integrated with two 3rd-party Analytics software to ingest application user usage data, leading to multiple UI changes and client workflow improvements
 
 ### Industry Experience
 - Fintech: Multi-Currency Wallets, Cross-Border Payments solutions
@@ -17,8 +18,9 @@ I’m currently Data Analyst with over 9 years of experience in financial market
 - Data Engineering, Modelling & Architecture
 - Project Management
 - Automation using Power Automate
-- Web Analytics
+- Web Analytics & A/B testing
 - Efficient Prompt Engineering
+
 
 
 ## Connect with me:
