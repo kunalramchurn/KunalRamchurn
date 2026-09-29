@@ -237,57 +237,6 @@ Exploring the application of modern AI to financial research:
 
 ---
 
-# 🚀 Current Learning & Exploration
-
-I'm continuously expanding my work at the intersection of:
-
-**Finance × Data Science × Engineering × AI**
-
-Current areas of exploration include:
-
-> 🧠 Machine Learning
-> 📈 Quantitative Finance
-> 💱 FX & Currency Markets
-> 🪙 Stablecoins & Digital Finance
-> 🤖 LLMs & AI Agents
-> 🔗 RAG & Vector Databases
-> 🏗️ Data Engineering
-> ☁️ Cloud Data Platforms
-
----
-
-# 📚 Research Philosophy
-
-> **Turn financial data into measurable insight.
-> Turn insight into systems.
-> Turn systems into decisions.**
-
-I’m particularly interested in projects where **financial domain knowledge and technical execution intersect** — not simply building models, but understanding the underlying business problem and creating something useful from the data.
-
----
-
-# 📌 Featured Projects
-
-> 🚧 *Selected projects and research will be featured here.*
-
-### 📈 Quantitative Finance Research
-
-Financial market research using Python, statistical modelling and machine learning.
-
-### 💱 FX & Currency Research
-
-Research into FX markets, currency dynamics, hedging and macroeconomic relationships.
-
-### 🤖 AI Financial Research
-
-Experiments combining LLMs, RAG, financial data and AI agents.
-
-### 🏗️ Financial Data Engineering
-
-Data pipelines and infrastructure for collecting, transforming and analysing financial datasets.
-
----
-
 # 📊 GitHub Activity
 
 <p align="center">
