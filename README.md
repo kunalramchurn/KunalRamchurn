@@ -1,13 +1,11 @@
 
 # 👋 Hi, I'm Kunal
 
-### **Fintech Data Scientist & Engineer | Financial Markets | Quantitative Analytics | AI & Data**
+### **Fintech Data Engineer | Financial Markets | Quantitative Analytics | AI & Data**
 
 I’m a **Fintech Data Scientist & Engineer** with 9+ years of experience working across **financial markets, payments, foreign exchange, and data analytics**.
 
-I enjoy solving real-world financial problems by combining **data science, quantitative methods, engineering, and domain knowledge**.
-
-My current areas of exploration include **quantitative finance, financial time series, machine learning, AI, stablecoins, FX, and financial data engineering**.
+I enjoy solving real-world financial problems by combining data science, quantitative methods, engineering, and domain knowledge.
 
 ---
 
@@ -79,6 +77,10 @@ Led analytics supporting the deployment of a **multi-currency wallet**, using cl
 ### 📊 Product & Operations Analytics
 
 Oversaw reporting and analytics for **Product & Operations**, delivering multiple business-critical analytics projects and enabling stakeholders to make data-driven decisions.
+
+### Pricing Strategies
+
+Developed Scenarios for various prices strategies including Linear, Static & Dynamic pricing and the opportunities to generate revenue.
 
 ### 🌐 Product & Web Analytics
 
